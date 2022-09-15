@@ -17,6 +17,7 @@
 
 main {
   display: flex;
+  justify-content: space-around;
 }
 
 #evaluation-form {
@@ -27,4 +28,13 @@ main {
 
 #trybewarts-forms-logo {
   height: 500px;
+}
+
+#evaluation-form-full-name {
+  display: flex;
+}
+
+
+#evaluation-form-email-house {
+  display: flex;
 }

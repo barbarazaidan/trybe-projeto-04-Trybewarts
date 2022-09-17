@@ -46,3 +46,7 @@ main {
 #area-cometario {
   resize: none;
 }
+
+#validacao-check {
+  display: flex;
+}

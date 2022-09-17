@@ -38,3 +38,7 @@ main {
 #evaluation-form-email-house {
   display: flex;
 }
+
+#secao-avaliacao {
+  display: flex;
+}

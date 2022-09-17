@@ -7,17 +7,51 @@
 .header {
   background-color: rgb(50, 167, 145);
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
+}
+
+#trybewarts-header-title {
+  color: white;
+  font-size: 50px;
 }
 
 .trybewarts-login {
   display: flex;
+
+  /* padding: 0 80px 0 0 ; */
+}
+
+.email {
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.senha {
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.botao-login {
+  border-radius: 5px;
+  padding: 10px 50px;
+  background-color: rgb(10, 10, 112);
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  color: rgb(19, 19, 70);
+  background-color: snow;
+  padding: 30px;
 }
 
 main {
   display: flex;
   justify-content: space-around;
+  background-color: snow;
+  padding: 40px 0;
 }
 
 #evaluation-form {
@@ -32,21 +66,95 @@ main {
 
 #evaluation-form-full-name {
   display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
 }
-
 
 #evaluation-form-email-house {
   display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+#input-name {
+  border-radius: 5px;
+  padding: 10px 130px 10px 10px;
+}
+
+#input-lastname {
+  border-radius: 5px;
+  padding: 10px 130px 10px 10px;
+}
+
+#input-email {
+  border-radius: 5px;
+  padding: 10px 130px 10px 10px;
+  margin-right: 5px;
+}
+
+#house {
+  border-radius: 5px;
+  padding: 10px 120px;
+  background-color: white;
+}
+
+#label-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+.subject {
+  margin-top: 10px;
 }
 
 #secao-avaliacao {
   display: flex;
+  margin-top: 20px;
 }
 
-#area-cometario {
+.avaliacao {
+  margin: 0 5px;
+}
+
+.textarea {
+  margin-top: 20px;
+}
+
+#texarea {
   resize: none;
+}
+
+#counter {
+  align-self: flex-end;
 }
 
 #validacao-check {
   display: flex;
 }
+
+#label-infos {
+  margin-top: 20px;
+}
+
+#agreement {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+#submit-btn {
+  background-color: rgb(10, 10, 112);
+  color: white;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+footer {
+  background-color: darkslategray;  /* por que preciso colocar o nome por extenso? */
+  color: white;
+  padding: 18px;
+  text-align: center;
+  font-size: 18px;
+}
+

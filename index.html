@@ -24,7 +24,10 @@
 
  </header>
 
+ <h2>Formulário</h2>
+
  <main>
+
   <form action="" id="evaluation-form">
 
    <section id="evaluation-form-full-name">
@@ -43,34 +46,35 @@
    </section>
 
    <label for="family" id="label-family">Qual sua família?</label>
-   <input type="radio" name="family" value="Frontend">Frontend
+   <input type="radio" name="family" value="Frontend" id="frontend">Frontend
    <input type="radio" name="family" value="Backend">Backend
    <input type="radio" name="family" value="FullStack">FullStack
-
-   <label for="conteudo" id="label-content">Qual conteúdo você está com mais vontade de aprender?</label>
-   <input type="checkbox" name="conteudo" value="HoFs" class="subject">HoFs
-   <input type="checkbox" name="conteudo" value="Jest" class="subject">Jest
-   <input type="checkbox" name="conteudo" value="Promises" class="subject">Promises
-   <input type="checkbox" name="conteudo" value="React" class="subject">React
-   <input type="checkbox" name="conteudo" value="SQL" class="subject">SQL
-   <input type="checkbox" name="conteudo" value="Python" class="subject">Python
+ 
+    <label for="conteudo" id="label-content">Qual conteúdo você está com mais vontade de aprender?</label>
+    <input type="checkbox" name="conteudo" value="HoFs" class="subject">HoFs
+    <input type="checkbox" name="conteudo" value="Jest" class="subject">Jest
+    <input type="checkbox" name="conteudo" value="Promises" class="subject">Promises
+    <input type="checkbox" name="conteudo" value="React" class="subject">React
+    <input type="checkbox" name="conteudo" value="SQL" class="subject">SQL
+    <input type="checkbox" name="conteudo" value="Python" class="subject">Python
 
    <section id="secao-avaliacao">
     <label for="rate" id="label-rate">Como você avalia a Trybewarts?</label>
-    <input type="radio" name="rate" value="1">1
-    <input type="radio" name="rate" value="2">2
-    <input type="radio" name="rate" value="3">3
-    <input type="radio" name="rate" value="4">4
-    <input type="radio" name="rate" value="5">5
-    <input type="radio" name="rate" value="6">6
-    <input type="radio" name="rate" value="7">7
-    <input type="radio" name="rate" value="8">8
-    <input type="radio" name="rate" value="9">9
-    <input type="radio" name="rate" value="10">10
+    <input type="radio" name="rate" value="1" class="avaliacao">1
+    <input type="radio" name="rate" value="2" class="avaliacao">2
+    <input type="radio" name="rate" value="3" class="avaliacao">3
+    <input type="radio" name="rate" value="4" class="avaliacao">4
+    <input type="radio" name="rate" value="5" class="avaliacao">5
+    <input type="radio" name="rate" value="6" class="avaliacao">6
+    <input type="radio" name="rate" value="7" class="avaliacao">7
+    <input type="radio" name="rate" value="8" class="avaliacao">8
+    <input type="radio" name="rate" value="9" class="avaliacao">9
+    <input type="radio" name="rate" value="10" class="avaliacao">10
    </section>
 
    <label for="comentario" class="textarea">Deixe seu comentário:</label>
-   <textarea name="comentario" id="area-cometario" maxlength="500"></textarea>
+   <textarea name="comentario" id="textarea" rows="10" minlength="0" maxlength="500"></textarea>
+   <h3 id="counter">500</h3>
 
    <section id="validacao-check">
     <label for="validacao-check" id="label-infos">Você concorda com o uso das informações acima?</label>

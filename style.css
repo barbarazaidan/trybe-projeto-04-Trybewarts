@@ -158,3 +158,6 @@ footer {
   font-size: 18px;
 }
 
+#form-data {
+  display: none;
+}

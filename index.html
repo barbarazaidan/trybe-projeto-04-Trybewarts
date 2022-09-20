@@ -46,11 +46,11 @@
    </section>
 
    <label for="family" id="label-family">Qual sua família?</label>
-   <input type="radio" name="family" value="Frontend" id="frontend">Frontend
-   <input type="radio" name="family" value="Backend">Backend
-   <input type="radio" name="family" value="FullStack">FullStack
+   <input type="radio" name="family" value="Frontend" class="family">Frontend
+   <input type="radio" name="family" value="Backend" class="family">Backend
+   <input type="radio" name="family" value="FullStack" class="family">FullStack
  
-    <label for="conteudo" id="label-content">Qual conteúdo você está com mais vontade de aprender?</label>
+    <label for="conteudo" id="label-content">Qual conteúdo você está com mais vontade de aprender? </label>
     <input type="checkbox" name="conteudo" value="HoFs" class="subject">HoFs
     <input type="checkbox" name="conteudo" value="Jest" class="subject">Jest
     <input type="checkbox" name="conteudo" value="Promises" class="subject">Promises
@@ -83,6 +83,16 @@
 
    <button type="submit" id="submit-btn" disabled>Enviar</button>
 
+  </form>
+
+  <form action="" id="form-data">
+   <p id="nome-salvo">Nome:</p>
+   <p id="email-salvo">Email: </p>
+   <p id="casa-salva">Casa: </p>
+   <p id="familia-salva">Família: </p>
+   <p id="materias-salvas">Matérias: </p>
+   <p id="avaliacao-salva">Avaliação: </p>
+   <p id="observacoes-salvas">Observações: </p>
   </form>
 
   <img src="images/trybewarts-colored.svg" alt="logo principal da trybewarts" id="trybewarts-forms-logo">

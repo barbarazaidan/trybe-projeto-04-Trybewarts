@@ -3,9 +3,9 @@
 
 O objetivo do projeto é desenvolver uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já que programar é o mais próximo que podemos chegar de algo verdadeiramente mágico! 
 
-## Detalhes do projeto:
+## Detalhes do projeto
 
-Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da Trybe)
+Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da Trybe):
 
 1. Crie uma barra verde na parte superior da página.
 

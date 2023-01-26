@@ -83,8 +83,6 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 > O rodapé deverá conter a tag footer e texto "Direitos reservados à Trybewarts©"
 
-Requisitos Bônus
-
 20. Crie um contador de caracteres.
 
 > O contador deve possuir o número de caracteres, que deverá ser atualizado à medida que algo for digitado na textarea. O valor deve ser inicialmente de 500 e decrementar até 0 a medida que algo for escrito, ou incrementar à medida que caracteres forem sendo apagados.
@@ -94,5 +92,5 @@ Requisitos Bônus
 > Faça com que, ao clicar no botão Enviar, o formulário seja substituído pelas informações preenchidas pela pessoa estudante.
 
 
-#### Sobre o curso da Trybe
+## Sobre o curso da Trybe
 O programa total de estudo conta com mais de 1.500 horas de aulas presenciais e online,divididas ao longo de 12 meses. O conteúdo aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.

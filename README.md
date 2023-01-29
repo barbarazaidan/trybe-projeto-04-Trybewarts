@@ -81,7 +81,9 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 19. Crie um rodapé ao final da página.
 
-> O rodapé deverá conter a tag footer e texto "Direitos reservados à Trybewarts©"
+> O rodapé deverá conter a tag footer e texto "Direitos reservados à Trybewarts©".
+
+REQUISITOS BÔNUS
 
 20. Crie um contador de caracteres.
 

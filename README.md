@@ -17,6 +17,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **2. Adicione o logotipo da Trybewarts**
 
 <details><summary>Detalhes</summary>
@@ -26,6 +28,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **3. Acrescente um formulário de login no header**
 
@@ -37,6 +41,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **4. Crie um título com o texto "Trybewarts" centralizado dentro do Header**
 
 <details><summary>Detalhes</summary>
@@ -46,6 +52,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **5. Adicione um formulário no corpo da página**
 
@@ -57,6 +65,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **6. Faça com que a direção do formulário seja vertical**
 
 <details><summary>Detalhes</summary>
@@ -66,6 +76,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **7. Adicione a logo da Trybewarts ao lado direito da página**
 
@@ -77,6 +89,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **8. Acrescente inputs de nome, sobrenome e email ao formulário**
 
 <details><summary>Detalhes</summary>
@@ -86,6 +100,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **9. Acrescente um select ao formulário**
 
@@ -97,6 +113,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **10. Posicione os campos de Nome e Sobrenome lado a lado**
 
 <details><summary>Detalhes</summary>
@@ -106,6 +124,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **11. Posicione os campos de Email e Casa lado a lado**
 
@@ -117,6 +137,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **12. Adicione 3 inputs do tipo radio ao formulário**
 
 <details><summary>Detalhes</summary>
@@ -126,6 +148,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **13. Crie inputs do tipo checkbox**
 
@@ -137,6 +161,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **14. Crie um campo de avaliação**
 
 <details><summary>Detalhes</summary>
@@ -146,6 +172,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **15. Crie uma textarea**
 
@@ -157,6 +185,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **16. Crie uma checkbox que servirá para validar as informações digitadas pela pessoa usuária**
 
 <details><summary>Detalhes</summary>
@@ -166,6 +196,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 **17. Crie um botão de "Enviar" para submeter o formulário**
 
@@ -177,6 +209,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **18. Habilite o botão "Enviar" após a validação do checkbox**
 
 <details><summary>Detalhes</summary>
@@ -187,6 +221,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 </p>
 </details>
 
+---
+
 **19. Crie um rodapé ao final da página**
 
 <details><summary>Detalhes</summary>
@@ -196,6 +232,8 @@ Confira os requisitos exigidos pela Trybe (texto extraído dos readme oficial da
 
 </p>
 </details>
+
+---
 
 REQUISITOS BÔNUS
 
@@ -209,6 +247,8 @@ REQUISITOS BÔNUS
 </p>
 </details>
 
+---
+
 **21. Substitua o formulário pelas informações da pessoa estudante**
 
 <details><summary>Detalhes</summary>
@@ -218,6 +258,8 @@ REQUISITOS BÔNUS
 
 </p>
 </details>
+
+---
 
 ## Sobre o curso da Trybe
 O programa total de estudo conta com mais de 1.500 horas de aulas presenciais e online,divididas ao longo de 12 meses. O conteúdo aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
